@@ -21,8 +21,6 @@ public class App {
           System.out.println("(\\__/)");
           System.out.println("( -.-)");
           System.out.println("/    > Both x and y are equal..");
-
         }
-
     }
 }
